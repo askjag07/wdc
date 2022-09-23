@@ -74,7 +74,7 @@
 
   7. Type <code>cd Desktop/wdc-jamplate-main</code> and press <kbd>Enter</kbd>.
 
-  8. Type <code>chmod 755 ./setup.sh && ./setup.sh</code> and press <kbd>Enter</kbd>.
+  8. Type <code>chmod 755 setup.sh && ./setup.sh</code> and press <kbd>Enter</kbd>.
 
   9. Next: [Start Developing](#2-start-developing)
 
