@@ -17,18 +17,16 @@
 
 1. ### [Quick start](#🚀-quick-start)
 
-   a. [**Set up your computer (first time only)**](#1-set-up-your-computer-first-time-only)
+   a. [**Set up your computer (first time only)**](#a-set-up-your-computer-first-time-only)
 
    - [School laptop](#school-laptop)
    - [Personal Computer](#personal-computer)
 
-   b. [**Open the code**](#2--start-developing)
+   b. [**Start customizing**](#b-open-the-code-and-start-customizing)
 
-   c. [**Start customizing**](#3-open-the-code-and-start-customizing)
+   c. [**Learn more**](#c-learn-more)
 
-   d. [**Learn more**](#4-learn-more)
-
-2. ### [To the Internet!](#to-the-internet-gatsby-cloud)
+2. ### [To the Internet!](#🚀-to-the-internet-gatsby-cloud)
 
    a. [**Login to GitHub**]()
 
@@ -62,41 +60,67 @@
 
   <img alt="GitHub 1" src="mdimg/github-1.png" />
 
-  iii. Select <code>New repository</code>.
+  iii. Select <kbd>New repository</kbd>.
 
   <img alt="GitHub 2" src="mdimg/github-2.png" />
 
   iv. Click this textbox, type your project's name, and press <kbd>Enter</kbd>.
 
-  <img alt="GitHub Repo 1" src="mdimg/repo-1.png">
+  <img alt="GitHub Repo 1" src="mdimg/repo-1.png" />
 
   v. Press the copy button on the right side of the screen.
 
-  <img alt="GitHub Repo 1" src="mdimg/repo-2.png">
+  <img alt="GitHub Repo 1" src="mdimg/repo-2.png" />
 
   vi. Open Visual Studio Code.
 
-  vii.
+  vii. Press this button on the left.
 
-  Next: [Start Developing](#2-start-developing)
+  <img alt="VS Code 1" src="mdimg/vsc-1.png" />
+
+  viii. Select <kbd>Clone Repository</kbd> and press <kbd>Enter</kbd> until your browser opens.
+
+  <img alt="VS Code 2" src="mdimg/vsc-2.png" />
+
+  ix. Enter your GitHub username and password again and press <kbd>Enter</kbd> until you see the <code>Repository name</code> search menu.
+
+  x. In the search menu, type <code>columbusacademy/wdc-jamplate</code>, and press <kbd>Enter</kbd>.
+
+  xi. The file explorer should open. Click the Desktop folder and press <kbd>Enter</kbd>.
+
+  xii. On the bottom right, click <kbd>Open</kbd>.
+
+  <img alt="VS Code 3" src="mdimg/vsc-3.png" />
+
+  xiii. Select <kbd>Yes, I trust the authors</kbd>.
+
+  <img alt="VS Code 4" src="mdimg/vsc-4.png" />
+
+  xiv. Open the terminal.
+
+  <img alt="Terminal" src="mdimg/terminal.png" />
+
+  xv. Type <code>chmod 755 setup.sh && ./setup.sh</code> and press <kbd>Enter</kbd>.
+
+  That's it!
+
+  Next: [Open the code and start customizing!](#2-start-developing)
 
 - #### Personal Computer
 
   [See below.](#personal-computer-setup)
 
-### b. Start developing
+### b. Open the code and start customizing!
 
-1. Open your project folder in VS Code (already done in <code>Set up your computer</code>)
+1. Open your project folder in VS Code (done in the previous section)
 
-2. Type <kbd>⌘</kbd> + <kbd>O</kbd> (MacOS) or <kbd>Ctrl</kbd> + <kbd>O</kbd> (Windows)
+<img alt="VS Code 5" src="mdimg/vsc-5.png" />
 
-3. Find the <code>wdc-jamplate-main</code> folder, click on it, and press <kbd>Enter</kbd>.
+2. Open the terminal.
 
-4. Choose <code>Yes, I trust the authors</code>.
+<img alt="Terminal" src="mdimg/terminal.png" />
 
-5. Open the terminal and enter <code>npm t</code>.
-
-### 3. Open the code and start customizing!
+3. Type <code>npm t</code> and press <kbd>Enter</kbd>.
 
 Your site is now running at http://localhost:8000!
 
@@ -104,7 +128,7 @@ Your site is now running at http://localhost:8000!
 
 Edit `src/pages/index.js` to see your site update in real-time!
 
-### 4. Learn more
+### c. Learn more
 
 - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter) (General link)
 
@@ -120,15 +144,27 @@ Edit `src/pages/index.js` to see your site update in real-time!
 
 <hr />
 
-## 🚀 To the internet! (Gatsby Cloud)
+## 🚀 To the internet!
 
 Deploy this website with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
 
-1. WORK IN PROGRESS
+1. [Create an account](https://www.gatsbyjs.com/dashboard/signup/) on Gatsby Cloud.
 
-2. "
+2. Select <kbd>Authorize Gatsby Cloud</kbd>.
 
-3. [Create an account](https://www.gatsbyjs.com/dashboard/signup/) on Gatsby Cloud
+<img alt="Gatsby Cloud 1" src="mdimg/gc-1.png" />
+
+3. Click <kbd>Add a site +</kbd>.
+
+<img alt="Gatsby Cloud 2" src="mdimg/gc-2.png" />
+
+4. Select <kbd>GitHub</kbd>.
+
+<img alt="Gatsby Cloud 3" src="mdimg/gc-3.png" />
+
+5. 
+
+<img alt="Gatsby Cloud 4" src="mdimg/gc-4.png" />
 
 <hr />
 
@@ -166,23 +202,9 @@ Deploy this website with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 
 - **Set up everything else**
 
-  1. Go to https://github.com/columbusacademy/wdc-jamplate.
+  1. Follow the [School Laptop](#school-laptop) instructions up to **xiv**.
 
-  2. Press the green <code>Code⏷</code> button.
-
-  <img alt="GitHub Repo 1" src="mdimg/github-1.png" />
-
-  3. Select <code>Download ZIP</code> and press <kbd>Enter</kbd>.
-
-     <img alt="GitHub Repo 2" src="mdimg/github-2.png" />
-
-  4. Drag the downloaded file to your Desktop, double-click it, and press <kbd>Enter</kbd>.
-
-  5. Open search ( <kbd>Windows</kbd> + <kbd>S</kbd> ), type <code>terminal</code>, and press <kbd>Enter</kbd>.
-
-  6. Click inside the newly opened window.
-
-  7. Type the following, pressing <kbd>Enter</kbd> after each line.
+  2. Type the following, pressing <kbd>Enter</kbd> after each line.
 
      ```shell
          cd OneDrive/Desktop/wdc-jamplate-main
@@ -191,10 +213,10 @@ Deploy this website with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
          nvs link lts
          npm i -g npm npm-check-updates gatsby-cli
          npm i
-         echo "\n\nYou're welcome ;)"
+         echo "\n\nYou're welcome ;)\n"
      ```
 
-  8. Next: [Start developing](#2-start-developing)
+  3. Next: [Open the code and start customizing!](#b-open-the-code-and-start-customizing)
 
 ### Linux
 
