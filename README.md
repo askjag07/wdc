@@ -84,7 +84,7 @@
 
 ### 2. Start developing
 
-1.  Open VS Code.
+1.  Open Visual Studio Code.
 
 2.  Type <kbd>⌘</kbd> + <kbd>O</kbd> (MacOS) or <kbd>Ctrl</kbd> + <kbd>O</kbd> (Windows)
 
@@ -132,7 +132,7 @@ Deploy this website with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 
 ### MacOS
 
-- [**Download VS Code**](https://code.visualstudio.com/)
+- [**Download Visual Studio Code**](https://code.visualstudio.com/)
 
 - **Download Git**
 
@@ -148,7 +148,7 @@ Deploy this website with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 
 ### Windows
 
-- [**Download VS Code**](https://code.visualstudio.com/)
+- [**Download Visual Studio Code**](https://code.visualstudio.com/)
 
 - [**Download Git**](https://git-scm.com/download/win)
 
