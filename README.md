@@ -72,7 +72,7 @@
 
   6. Click inside the newly opened window.
 
-  7. Type <code>cd Desktop/wdc-jamplate</code> and press <kbd>Enter</kbd>.
+  7. Type <code>cd Desktop/wdc-jamplate-main</code> and press <kbd>Enter</kbd>.
 
   8. Type <code>chmod 755 ./setup.sh && ./setup.sh</code> and press <kbd>Enter</kbd>.
 
@@ -88,7 +88,7 @@
 
 2.  Type <kbd>⌘</kbd> + <kbd>O</kbd> (MacOS) or <kbd>Ctrl</kbd> + <kbd>O</kbd> (Windows)
 
-3.  Find the <code>wdc-jamplate</code> folder, click on it, and press <kbd>Enter</kbd>.
+3.  Find the <code>wdc-jamplate-main</code> folder, click on it, and press <kbd>Enter</kbd>.
 
 4.  Open the terminal and enter <code>npm t</code>.
 
@@ -181,7 +181,7 @@ Deploy this website with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
   7. Type the following, pressing <kbd>Enter</kbd> after each line.
 
      ```shell
-         cd OneDrive/Desktop/wdc-jamplate
+         cd OneDrive/Desktop/wdc-jamplate-main
          nvs add lts
          nvs use lts
          nvs link lts
