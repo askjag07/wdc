@@ -13,86 +13,88 @@
 
 <hr />
 
-## Table of Contents
+## 🗺️ Table of Contents
 
-- ### [Quick start](#🚀-quick-start)
+1. ### [Quick start](#🚀-quick-start)
 
-  1. [**Set up your computer (first time only)**](#1-set-up-your-computer-first-time-only)
+   a. [**Set up your computer (first time only)**](#1-set-up-your-computer-first-time-only)
 
-     - [School laptop](#school-laptop)
-     - [Personal Computer](#personal-computer)
+   - [School laptop](#school-laptop)
+   - [Personal Computer](#personal-computer)
 
-  2. [**Start developing**](#2--start-developing)
+   b. [**Open the code**](#2--start-developing)
 
-  3. [**Open the code and start customizing**](#3-open-the-code-and-start-customizing)
+   c. [**Start customizing**](#3-open-the-code-and-start-customizing)
 
-  4. [**Learn more**](#4-learn-more)
+   d. [**Learn more**](#4-learn-more)
 
-- ### [To the Internet! (Gatsby Cloud)](#to-the-internet-gatsby-cloud)
+2. ### [To the Internet!](#to-the-internet-gatsby-cloud)
 
-  1. **Login to GitHub**
+   a. [**Login to GitHub**]()
 
-  2. **Initialize a repository**
+   b. [**Initialize a repository**]()
 
-  3. **Login to Gatsby Cloud**
+   c. [**Login to Gatsby Cloud**]()
 
-  4. **Launch your website**
+   d. [**Launch your website**]()
 
-- ### [Personal Computer Setup](#personal-computer-setup)
+3. ### [Personal Computer Setup](#personal-computer-setup)
 
-  - [**MacOS**](#macos)
+   - [**MacOS**](#macos)
 
-  - [**Windows**](#windows)
+   - [**Windows**](#windows)
 
-  - [**Linux**](#linux)
+   - [**Linux**](#linux)
 
-- ### [Remember: Ask questions!](#remember-ask-questions)
+4. ### [Remember: Ask questions!](#remember-ask-questions)
 
 <hr />
 
 ## 🚀 Quick start
 
-### 1. Set up your computer (first time only)
+### a. Set up your computer (first time only)
 
 - #### School Laptop
 
-  1. Go to https://github.com/columbusacademy/wdc-jamplate.
+  i. Log in to [GitHub](https://github.com/signup).
 
-  2. Press the green <code>Code</code> button.
+  ii. Press the <code>+</code> button on the top-right corner.
 
-  <img alt="GitHub Repo 1" src="mdimg/github-1.png" />
+  <img alt="GitHub 1" src="mdimg/github-1.png" />
 
-  3. Select <code>Download ZIP</code> and press <kbd>Enter</kbd>.
+  iii. Select <code>New repository</code>.
 
-  <img alt="GitHub Repo 2" src="mdimg/github-2.png" />
+  <img alt="GitHub 2" src="mdimg/github-2.png" />
 
-  4. Drag the downloaded file to your Desktop and double-click it.
+  iv. Click this textbox, type your project's name, and press <kbd>Enter</kbd>.
 
-  5. Open spotlight ( <kbd>⌘</kbd> + <kbd>Space</kbd> ), type <code>terminal</code>, and press <kbd>Enter</kbd>.
+  <img alt="GitHub Repo 1" src="mdimg/repo-1.png">
 
-  6. Click inside the newly opened window.
+  v. Press the copy button on the right side of the screen.
 
-  7. Type <code>cd Desktop/wdc-jamplate-main</code> and press <kbd>Enter</kbd>.
+  <img alt="GitHub Repo 1" src="mdimg/repo-2.png">
 
-  8. Type <code>chmod 755 setup.sh && ./setup.sh</code> and press <kbd>Enter</kbd>.
+  vi. Open Visual Studio Code.
 
-  9. Next: [Start Developing](#2-start-developing)
+  vii.
+
+  Next: [Start Developing](#2-start-developing)
 
 - #### Personal Computer
 
   [See below.](#personal-computer-setup)
 
-### 2. Start developing
+### b. Start developing
 
-1.  Open Visual Studio Code.
+1. Open your project folder in VS Code (already done in <code>Set up your computer</code>)
 
-2.  Type <kbd>⌘</kbd> + <kbd>O</kbd> (MacOS) or <kbd>Ctrl</kbd> + <kbd>O</kbd> (Windows)
+2. Type <kbd>⌘</kbd> + <kbd>O</kbd> (MacOS) or <kbd>Ctrl</kbd> + <kbd>O</kbd> (Windows)
 
-3.  Find the <code>wdc-jamplate-main</code> folder, click on it, and press <kbd>Enter</kbd>.
+3. Find the <code>wdc-jamplate-main</code> folder, click on it, and press <kbd>Enter</kbd>.
 
-4.  Choose <code>Yes, I trust the authors</code>.
+4. Choose <code>Yes, I trust the authors</code>.
 
-5.  Open the terminal and enter <code>npm t</code>.
+5. Open the terminal and enter <code>npm t</code>.
 
 ### 3. Open the code and start customizing!
 
