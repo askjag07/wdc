@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  WDC JAMStack Template
+  WDC Website Template
 </h1>
 
 <p align="center">Have questions? <a href="mailto:jagarapua24@columbusacademy.org,jacksons24@columbusacademy.org">Email us</a>.<p>
@@ -13,15 +13,52 @@
 
 <hr />
 
+## Table of Contents
+
+- ### [Quick start](#🚀-quick-start)
+
+  1. [**Set up your computer (first time only)**](#1-set-up-your-computer-first-time-only)
+
+     - [School laptop](#school-laptop)
+     - [Personal Computer](#personal-computer)
+
+  2. [**Start developing**](#2--start-developing)
+
+  3. [**Open the code and start customizing**](#3-open-the-code-and-start-customizing)
+
+  4. [**Learn more**](#4-learn-more)
+
+- ### [To the Internet! (Gatsby Cloud)](#to-the-internet-gatsby-cloud)
+
+  1. **Login to GitHub**
+
+  2. **Initialize a repository**
+
+  3. **Login to Gatsby Cloud**
+
+  4. **Launch your website**
+
+- ### [Personal Computer Setup](#personal-computer-setup)
+
+  - [**MacOS**](#macos)
+
+  - [**Windows**](#windows)
+
+  - [**Linux**](#linux)
+
+- ### [Remember: Ask questions!](#remember-ask-questions)
+
+<hr />
+
 ## 🚀 Quick start
 
-### 1. Set up your computer (first time only).
+### 1. Set up your computer (first time only)
 
-- <h4 id="schoolLaptop">School Laptop</h4>
+- #### School Laptop
 
   1. Go to https://github.com/columbusacademy/wdc-jamplate.
 
-  2. Press the green <code>Code⏷</code> button.
+  2. Press the green <code>Code</code> button.
 
   <img alt="GitHub Repo 1" src="mdimg/github-1.png" />
 
@@ -39,13 +76,13 @@
 
   8. Type <code>chmod 755 ./setup.sh && ./setup.sh</code> and press <kbd>Enter</kbd>.
 
-  9. Next: [Start Developing](#sd)
+  9. Next: [Start Developing](#2-start-developing)
 
 - #### Personal Computer
 
-  [See below.](#personalComputer)
+  [See below.](#personal-computer-setup)
 
-### 2. <span id="sd">Start developing.</span>
+### 2. Start developing
 
 1.  Open VS Code.
 
@@ -91,7 +128,7 @@ Deploy this website with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 
 <hr />
 
-## <span id="personalComputer">Personal Computer Setup</span>
+## Personal Computer Setup
 
 ### MacOS
 
@@ -107,7 +144,7 @@ Deploy this website with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 
   4.  Follow the prompts to compete the installation.
 
-- **Go to the [School Laptop](#schoolLaptop) setup.**
+- **Go to the [School Laptop](#school-laptop) setup.**
 
 ### Windows
 
@@ -123,7 +160,7 @@ Deploy this website with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 
   2. Open the file and follow the prompts to complete the installation.
 
-- **Set up Everything Else**
+- **Set up everything else**
 
   1. Go to https://github.com/columbusacademy/wdc-jamplate.
 
@@ -153,7 +190,7 @@ Deploy this website with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
          echo "\n\nYou're welcome ;)"
      ```
 
-  8. Next: [Start Developing](#sd)
+  8. Next: [Start developing](#2-start-developing)
 
 ### Linux
 
@@ -163,6 +200,6 @@ Just [email us](mailto:jagarapua24@columbusacademy.org,jacksons24@columbusacadem
 
 <hr />
 
-## Remember: Ask Questions!
+## Remember: Ask questions!
 
 If you have any questions or interesting ideas, we're here to help. [Email us](mailto:jagarapua24@columbusacademy.org,jacksons24@columbusacademy.org) and set up an in-person or zoom meeting.
