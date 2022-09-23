@@ -9,4 +9,4 @@ nvm install --lts
 nvm use --lts
 npm i -g npm npm-check-updates gatsby-cli
 npm i
-echo "\n\nYou're welcome ;)"
+echo "\n\nYou're welcome ;)\n"
