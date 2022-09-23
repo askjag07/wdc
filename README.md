@@ -90,7 +90,9 @@
 
 3.  Find the <code>wdc-jamplate-main</code> folder, click on it, and press <kbd>Enter</kbd>.
 
-4.  Open the terminal and enter <code>npm t</code>.
+4.  Choose <code>Yes, I trust the authors</code>.
+
+5.  Open the terminal and enter <code>npm t</code>.
 
 ### 3. Open the code and start customizing!
 
