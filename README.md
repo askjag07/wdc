@@ -26,7 +26,7 @@
 
    c. [**Learn more**](#c-learn-more)
 
-2. ### [To the Internet!](#🚀-to-the-internet-gatsby-cloud)
+2. ### [To the Internet!](#🚀-to-the-internet)
 
    a. [**Login to GitHub**]()
 
@@ -58,11 +58,11 @@
 
   ii. Press the <code>+</code> button on the top-right corner.
 
-  <img alt="GitHub 1" src="mdimg/github-1.png" />
+  <img alt="GitHub 1" src="mdimg/gh-1.png" />
 
   iii. Select <kbd>New repository</kbd>.
 
-  <img alt="GitHub 2" src="mdimg/github-2.png" />
+  <img alt="GitHub 2" src="mdimg/gh-2.png" />
 
   iv. Click this textbox, type your project's name, and press <kbd>Enter</kbd>.
 
@@ -96,7 +96,13 @@
 
   <img alt="VS Code 4" src="mdimg/vsc-4.png" />
 
-  xiv. Open the terminal.
+  xiv. Press this button on the left.
+
+  <img alt="VS Code 1" src="mdimg/vsc-1.png" />
+
+  xv.
+
+  xix. Open the terminal.
 
   <img alt="Terminal" src="mdimg/terminal.png" />
 
@@ -162,13 +168,21 @@ Deploy this website with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 
 <img alt="Gatsby Cloud 3" src="mdimg/gc-3.png" />
 
-5. 
+5. Select <kbd>Click here to add an installation</kbd>.
 
 <img alt="Gatsby Cloud 4" src="mdimg/gc-4.png" />
 
+5. In the pop-up window, scroll down and click <kbd>Install</kbd>.
+
+<img alt="Github 3" src="mdimg/gh-3.png" />
+
+6. The pop-up window should close. Find your project's name and click <kbd>Import</kbd> next to it.
+
+<img alt="Gatsby Cloud 5" src="mdimg/gc-5.png" />
+
 <hr />
 
-## Personal Computer Setup
+## 💻 Personal Computer Setup
 
 ### MacOS
 
@@ -206,7 +220,7 @@ Deploy this website with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 
   2. Type the following, pressing <kbd>Enter</kbd> after each line.
 
-     ```shell
+     ```bash
          cd OneDrive/Desktop/wdc-jamplate-main
          nvs add lts
          nvs use lts
@@ -226,6 +240,6 @@ Just [email us](mailto:jagarapua24@columbusacademy.org,jacksons24@columbusacadem
 
 <hr />
 
-## Remember: Ask questions!
+## 👑 Remember: Ask questions!
 
 If you have any questions or interesting ideas, we're here to help. [Email us](mailto:jagarapua24@columbusacademy.org,jacksons24@columbusacademy.org) and set up an in-person or zoom meeting.
